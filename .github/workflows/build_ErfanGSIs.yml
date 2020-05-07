@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL:https://cloud189-guizhou-person.oos-gzgy.ctyunapi.cn/c99c8cba-20ac-4623-96e5-08d64ba9e532.zip?x-amz-UFID=4151228173875094&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-FSIZE=4197748967&Expires=1588875975&x-amz-UID=753638713&response-content-disposition=attachment%3Bfilename%3D%22Reno3.zip%22&AWSAccessKeyId=caf5e6901807aca55a45&x-amz-limitrate=10240&x-amz-CLOUDTYPEIN=PERSON&x-amz-CLIENTTYPEIN=WEB&Signature=Ra7Oatzy5OvQ0OdJvoNVGJy7UqA%3D
-  ROM_NAME: ColorosOS
+  ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
 jobs:
